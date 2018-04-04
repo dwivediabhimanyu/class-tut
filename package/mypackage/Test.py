@@ -3,14 +3,14 @@ import mod2
 
 x=4
 y=6
-print(mod.prime(x))
+print(mod1.prime(x))
 
-print(mod.cf(x))
+print(mod1.cf(x))
 
-print(mod.factorial(x))
+print(mod1.factorial(x))
 
-print(mod.even(x))
+print(mod1.even(x))
 
-print(mod.hcf(x,y))
+print(mod2.hcf(x,y))
 
-print(mod.lcm(x,y))
+print(mod2.lcm(x,y))
